@@ -1,6 +1,6 @@
-# WE-Case-Study
+# WE Case Study
 
-**Overcoming Core Technical Challenges**
+# Overcoming Core Technical Challenges
 My successful completion of the assessment required overcoming several significant obstacles:
 
 **1. Large-Scale Data Handling**

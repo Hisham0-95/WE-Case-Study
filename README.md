@@ -9,14 +9,13 @@ My successful completion of the assessment required overcoming several significa
 
 **1. Large-Scale Data Handling**
 
-The Challenge: The project involved my first exposure to true Big Data—nine tables, including four fact tables with millions of rows—a scale common in telecom environments.
-
-The Achievement: I successfully managed the dataset and navigated the initial performance hurdles. This experience cemented my confidence in my ability to handle, process, and analyze enterprise-level data volumes efficiently.
+**The Challenge**: The project involved my first exposure to true Big Data—nine tables, including four fact tables with millions of rows—a scale common in telecom environments.
+**The Achievement**: I successfully managed the dataset and navigated the initial performance hurdles. This experience cemented my confidence in my ability to handle, process, and analyze enterprise-level data volumes efficiently.
 
 **2. Data Contextualization Without Metadata**
-The Challenge: The data lacked crucial metadata, making the interpretation of columns complex and hindering initial cleaning efforts.
 
-The Achievement: I proactively utilized industry research, Google, and AI tools to rapidly build a strong contextual understanding of standard telecom data structures and metrics. This quick adaptation was key to successfully cleaning the data and generating relevant insights.
+**The Challenge**: The data lacked crucial metadata, making the interpretation of columns complex and hindering initial cleaning efforts.
+**The Achievement**: I proactively utilized industry research, Google, and AI tools to rapidly build a strong contextual understanding of standard telecom data structures and metrics. This quick adaptation was key to successfully cleaning the data and generating relevant insights.
 
 **3. Mastering Advanced DAX Measures**
 The Challenge: The assessment demanded highly specific answers requiring complex DAX (Data Analysis Expressions) measures—a skill area I had underdeveloped compared to my proficiency in SQL.

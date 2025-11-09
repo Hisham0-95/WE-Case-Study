@@ -7,10 +7,11 @@
 # Overcoming Core Technical Challenges
 My successful completion of the assessment required overcoming several significant obstacles:
 
-**1. Large-Scale Data Handling** /n
-  The Challenge: The project involved my first exposure to true Big Data—nine tables, including four fact tables with millions of rows—a scale common in telecom environments.
+**1. Large-Scale Data Handling**
 
-  The Achievement: I successfully managed the dataset and navigated the initial performance hurdles. This experience cemented my confidence in my ability to handle, process, and analyze enterprise-level data volumes efficiently.
+The Challenge: The project involved my first exposure to true Big Data—nine tables, including four fact tables with millions of rows—a scale common in telecom environments.
+
+The Achievement: I successfully managed the dataset and navigated the initial performance hurdles. This experience cemented my confidence in my ability to handle, process, and analyze enterprise-level data volumes efficiently.
 
 **2. Data Contextualization Without Metadata**
 The Challenge: The data lacked crucial metadata, making the interpretation of columns complex and hindering initial cleaning efforts.

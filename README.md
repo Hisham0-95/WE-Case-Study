@@ -1,4 +1,6 @@
 # WE Case Study
+I recently undertook a challenging case study for the **Strategic Research Specialist** role at WE, a project secured through my professional network. Recognizing that the role typically requires prior experience and a graduate-level background, I viewed this as a critical opportunity for **self-assessment and accelerated professional growth**. Successfully completing this complex assignment demonstrates my drive, problem-solving ability, and readiness to engage with strategic industry challenges.
+
 <img width="1919" height="1023" alt="Screenshot 2025-11-09 184950" src="https://github.com/user-attachments/assets/1c7deaa6-51ba-4752-a5d0-db2b703270c9" />
 
 <img width="1919" height="991" alt="Screenshot 2025-11-09 185028" src="https://github.com/user-attachments/assets/ebd245d3-db73-450c-8a47-b8683a1a4467" />
@@ -9,9 +11,9 @@ My successful completion of the assessment required overcoming several significa
 
 **1. Large-Scale Data Handling**
 
-  **The Challenge**: The project involved my first exposure to true Big Data—nine tables, including four fact tables with millions of rows—a scale common in telecom environments.
+**The Challenge:** The project involved my first exposure to true Big Data—nine tables, including four fact tables with millions of rows—a scale common in telecom environments.
 
-  **The Achievement**: I successfully managed the dataset and navigated the initial performance hurdles. This experience cemented my confidence in my ability to handle, process, and analyze enterprise-level data volumes efficiently.
+**The Achievement:** I successfully managed the dataset and navigated the initial performance hurdles. This experience cemented my confidence in my ability to handle, process, and analyze enterprise-level data volumes efficiently.
 
 **2. Data Contextualization Without Metadata**
 

@@ -1,4 +1,5 @@
 # WE Case Study
+<img width="1919" height="1023" alt="Screenshot 2025-11-09 184950" src="https://github.com/user-attachments/assets/1c7deaa6-51ba-4752-a5d0-db2b703270c9" />
 
 # Overcoming Core Technical Challenges
 My successful completion of the assessment required overcoming several significant obstacles:

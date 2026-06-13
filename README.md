@@ -1,4 +1,4 @@
-# WE Telecom Case Study 📊
+# WE Telecom Case Study 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?logo=microsoft&logoColor=white)
